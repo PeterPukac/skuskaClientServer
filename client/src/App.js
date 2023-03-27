@@ -6,6 +6,7 @@ import AddAcount from './AddAcount';
 import DataLoader from './DataLoader';
 import { Routes, Route} from "react-router-dom";
 function App() {
+  // Druhy skusobny commit
   return (
     <div className="App">
       <Navbar/>
